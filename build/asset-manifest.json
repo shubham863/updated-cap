@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/capstone/static/css/main.e9f7c39d.css",
+    "main.js": "/capstone/static/js/main.41e87390.js",
+    "static/media/Screenshot1.png": "/capstone/static/media/Screenshot1.8fe147881b188e06b03f.png",
+    "static/media/variable.png": "/capstone/static/media/variable.b68d2f2df3b1f810465f.png",
+    "static/media/keywords.png": "/capstone/static/media/keywords.b6b23826dcc8bd9122ec.png",
+    "static/media/operators.png": "/capstone/static/media/operators.fea603b72ca0c74020a2.png",
+    "index.html": "/capstone/index.html",
+    "main.e9f7c39d.css.map": "/capstone/static/css/main.e9f7c39d.css.map",
+    "main.41e87390.js.map": "/capstone/static/js/main.41e87390.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9f7c39d.css",
+    "static/js/main.41e87390.js"
+  ]
+}
